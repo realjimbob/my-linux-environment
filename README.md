@@ -1,2 +1,2 @@
-# my-linux-environment
+# My Linux Environment
 Startup scripts and schtuff for keeping synchronised - nothing much to see here...
